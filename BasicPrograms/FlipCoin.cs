@@ -47,7 +47,13 @@ namespace BasicPrograms
                 Console.WriteLine("The number of Flip is not Valid");
                 Console.ReadLine();
             }
+           
+
+            }
         }
     }
-}
+
+
+    
+
 

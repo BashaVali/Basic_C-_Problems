@@ -1,7 +1,8 @@
 ﻿using BasicPrograms;
+using BasicPrograms.LeapYear;
 using System;
 
-namespace FlipCoin
+namespace BasicPrograms
 {
     class Program
     {
@@ -9,6 +10,8 @@ namespace FlipCoin
         {
             FlipCoins flipCoin = new FlipCoins();
             flipCoin.FlipCoin();
+            LeapYears leapYear = new LeapYears();
+            leapYear.LeapYear();
         }
     }
 }
