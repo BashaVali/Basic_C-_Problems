@@ -14,7 +14,9 @@ namespace BasicPrograms
             powerOf2.PowerOf2();
             HarmonicSeries harmonic = new HarmonicSeries();
             harmonic.Harmonic();
+            PrimeFactor primeFactor = new PrimeFactor();
+            primeFactor.Factors();
             
-        }
+        } 
     }
-}
+}                   

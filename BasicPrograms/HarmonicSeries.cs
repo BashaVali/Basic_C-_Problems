@@ -16,11 +16,9 @@ namespace BasicPrograms
         }
         public void Harmonic()
         {   
-             // loop to apply the formula 
-
-    // Hn = H1 + H2 + H3 ... + 
-
-    // Hn-1 + Hn-1 + 1/n
+          //loop to apply the formula 
+          //Hn = H1 + H2 + H3 ... + 
+          //Hn-1 + Hn-1 + 1/n
 
             int N = InputValue();
             float harmonic = 1;
