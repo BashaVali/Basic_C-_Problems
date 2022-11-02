@@ -20,6 +20,8 @@ namespace BasicPrograms
             quotientAndRemainder.Divider();
             SwapNumber swapNumber = new SwapNumber();
             swapNumber.Swap();
+            EvenorOdd evenorOdd = new EvenorOdd();  
+            evenorOdd.EvenOdd();
             
         } 
     }
