@@ -11,8 +11,8 @@ namespace BasicPrograms
         public void EvenOdd()
         {
        
-        Console.Write
-        ("enter the number to check whether it is odd or even : ");
+        Console.Write("enter the number to check whether it is odd or even : ");
+
             int num = Convert.ToInt32(Console.ReadLine());
             if (num % 2 == 0)
             {

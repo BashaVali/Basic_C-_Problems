@@ -22,6 +22,8 @@ namespace BasicPrograms
             swapNumber.Swap();
             EvenorOdd evenorOdd = new EvenorOdd();  
             evenorOdd.EvenOdd();
+            VowelsorConsonants vowelsorConsonants = new VowelsorConsonants();
+            vowelsorConsonants.VowelorConsonant();
             
         } 
     }
