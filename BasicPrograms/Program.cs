@@ -18,6 +18,8 @@ namespace BasicPrograms
             primeFactor.Factors();
             QuotientAndRemainder quotientAndRemainder = new QuotientAndRemainder();
             quotientAndRemainder.Divider();
+            SwapNumber swapNumber = new SwapNumber();
+            swapNumber.Swap();
             
         } 
     }
