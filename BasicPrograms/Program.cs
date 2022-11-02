@@ -24,6 +24,8 @@ namespace BasicPrograms
             evenorOdd.EvenOdd();
             VowelsorConsonants vowelsorConsonants = new VowelsorConsonants();
             vowelsorConsonants.VowelorConsonant();
+            LargestNumber largestNumber = new LargestNumber();
+            largestNumber.LargeNumber();
             
         } 
     }
