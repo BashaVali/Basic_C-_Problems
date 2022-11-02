@@ -16,6 +16,8 @@ namespace BasicPrograms
             harmonic.Harmonic();
             PrimeFactor primeFactor = new PrimeFactor();
             primeFactor.Factors();
+            QuotientAndRemainder quotientAndRemainder = new QuotientAndRemainder();
+            quotientAndRemainder.Divider();
             
         } 
     }
